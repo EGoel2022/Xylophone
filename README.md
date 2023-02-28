@@ -1,3 +1,3 @@
 # Xylophone
 
-Xylophone app that can play sound notes.
+Xylophone app that can play different sound notes.
